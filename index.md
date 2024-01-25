@@ -94,7 +94,7 @@ Try this test.
 4. เริ่มจับเวลาได้!!
 5. อ่านคำถาม - <a class="btn btn-primary" data-toggle="collapse" href="#testquestionth" role="button" aria-expanded="false" aria-controls="testquestionth">คำถาม</a>
 6. เขียนโค้ดและสั่ง print คำตอบของคุณออกมา
-7. หยุดจับเวลาเมื่อคุณได้คำตอบที่ถูกต้อง แต่ถ้ายังไม่ได้ให้พยายามต่อไป - <a class="btn btn-primary" data-toggle="collapse" href="#testanswer" role="button" aria-expanded="false" aria-controls="testanswer">Show Answer</a>
+7. หยุดจับเวลาเมื่อคุณได้คำตอบที่ถูกต้อง แต่ถ้ายังไม่ได้ให้พยายามต่อไป - <a class="btn btn-primary" data-toggle="collapse" href="#testanswer" role="button" aria-expanded="false" aria-controls="testanswer">คำตอบ</a>
 8. คุณใช้เวลาทั้งหมดไปเท่าไร แชร์ให้ทุกคนได้รู้หน่อยว่าคุณทำได้เร็วแค่ไหน
 9. ไม่มีอะไรยากใช่มั้ย? มาร่วมสนุกกับเราได้ที่ [codewars.info](https://codewars.info)
 </div>
